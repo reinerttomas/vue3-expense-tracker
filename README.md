@@ -1,35 +1,17 @@
-# vue3-expense-tracker
+# Vue 3 Tasks App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple expense tracker application built with Vue 3 and Pinia. It allows users to add, remove, and manage their income and expenses.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Expense Tracker
+- Vue 3 Composition API
+- Pinia
 
-## Customize configuration
+## How to Use
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Show total balance
+- Show total income
+- Show total expenses
+- Add a income or expense
+- Delete a income or expense
